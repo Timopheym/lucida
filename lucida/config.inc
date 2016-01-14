@@ -1,2 +1,2 @@
 # Set classpaths for java programs in lucidaeco
-export thrift=$HOME/tools/thrift-0.9.2
+export thrift=$HOME/thrift-0.9.3
